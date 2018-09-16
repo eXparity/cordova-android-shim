@@ -3,7 +3,7 @@
 
 	<groupId>org.exparity</groupId>
 	<artifactId>cordova-android-shim</artifactId>
-	<version>1.0.0</version>
+	<version>1.0.1-SNAPSHOT</version>
 
 	<name>eXparity Apache Cordova Shim</name>
 	<url>https://github.com/eXparity/cordova-android-shim</url>
