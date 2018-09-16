@@ -6,7 +6,7 @@
 	<artifactId>cordova-android-shim</artifactId>
 	<version>1.0.0-SNAPSHOT</version>
 
-	<name>Cordova Shim</name>
+	<name>eXparity Apache Cordova Shim</name>
 	<url>https://github.com/eXparity/cordova-android-shim</url>
 	<description>A shim for use in testing Cordova projects to allow projects to compile without depending on cordova or android</description>
 
